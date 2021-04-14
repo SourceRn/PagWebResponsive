@@ -1,0 +1,30 @@
+.car1{
+    width: 300px;
+}
+    .car1 button{
+        opacity: .09;
+        transition: .5s;
+    }
+        button:hover{
+            background-color: black;
+        }
+.info{
+    background-color:azure;
+    border-radius: 18px;
+    filter: drop-shadow(6px 6px 10px #D2D5DD);
+}
+    .info p{
+        text-align: center;
+        font-size: large;
+    }
+    h6{
+        display: block;
+        width: 100%;
+        height: 65px;
+        text-align: center;
+        padding-top:10px;
+        background-color: #797D81;
+        color: white;
+        border-radius: 25px;
+        font-size: 32px;
+    }
