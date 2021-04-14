@@ -1,3 +1,39 @@
- article{
-     background-color: gainsboro;
- }
+.container .cont1{
+    background-color: gainsboro;
+    text-align:justify;
+    filter: drop-shadow(6px 6px 10px #D2D5DD);
+    border-radius: 20px;
+}
+    h6{
+        display: block;
+        width: 150px;
+        height: 65px;
+        text-align: center;
+        padding-top:10px;
+        background-color: #797D81;
+        color: white;
+        border-radius: 25px;
+        font-size: 32px;
+    }
+    .image img{
+        float: right;
+        padding-top: 120px;
+        padding-right: 20px;
+        padding-bottom: 20px;
+    }
+
+.container .cont2{
+    background-color: gainsboro;
+    text-align:justify;
+    filter: drop-shadow(5px 5px 10px #D2D5DD);
+    border-radius: 20px;
+}
+    .cont2 .div1{
+        background-color: ghostwhite;
+        border-radius: 20px;
+    }
+    .cont2 .div2{
+        color: white;
+        background-color: dimgrey;
+        border-radius: 20px;
+    }
