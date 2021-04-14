@@ -1,7 +1,9 @@
 *{
     margin: 0 auto;
 }
-
+body{
+    background-color:aliceblue;
+}
 header{
     background-color:#30292F;
 }

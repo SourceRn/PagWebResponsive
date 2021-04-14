@@ -27,6 +27,7 @@
     text-align:justify;
     filter: drop-shadow(5px 5px 10px #D2D5DD);
     border-radius: 20px;
+    background-color: aliceblue;
 }
     .cont2 .div1{
         background-color: ghostwhite;
