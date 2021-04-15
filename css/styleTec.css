@@ -1,5 +1,5 @@
 .car1{
-    width: 300px;
+    width: 200px;
 }
     .car1 button{
         opacity: .09;
@@ -26,5 +26,5 @@
         background-color: #797D81;
         color: white;
         border-radius: 25px;
-        font-size: 32px;
+        font-size: 22px;
     }
